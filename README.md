@@ -1,2 +1,2 @@
 # Documentation
-Contains brief tutorial of whatever tech I learn
+Brief tutorial of whatever I learn
