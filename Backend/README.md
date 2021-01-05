@@ -18,8 +18,8 @@ Links were taken from https://towardsdatascience.com/10-excellent-github-reposit
 * Git: https://www.javatpoint.com/git
 
 **Databases:**
-1. Relational Database
-* PostgreSQL: https://www.tutorialspoint.com/postgresql/index.htm
-2. NoSQL Database
-* MongoDB: 
+* Relational Database
+1. PostgreSQL: https://www.tutorialspoint.com/postgresql/index.htm
+* NoSQL Database
+1. MongoDB: 
 
