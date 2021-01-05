@@ -14,5 +14,12 @@
 
 Links were taken from https://towardsdatascience.com/10-excellent-github-repositories-for-every-java-developer-41084a91ade9
 
+**Version Control System:** 
+* Git: https://www.javatpoint.com/git
 
+**Databases:**
+1. Relational Database
+* PostgreSQL: https://www.tutorialspoint.com/postgresql/index.htm
+2. NoSQL Database
+* MongoDB: 
 
