@@ -1,8 +1,8 @@
-Learning Backend: https://roadmap.sh/backend
+**Learning Backend:** https://roadmap.sh/backend
 
-Programming Guides: https://roadmap.sh/guides
+**Programming Guides:** https://roadmap.sh/guides
 
-Language: 
+**Language:** 
 * Java: 
 1. Java Design Patterns: https://github.com/iluwatar/java-design-patterns
 2. Java Interview Prep: https://github.com/kdn251/interviews
