@@ -12,3 +12,7 @@ Language:
 6. Java8 Tutorial: https://github.com/winterbe/java8-tutorial
 7. Cracking the Coding Interview in Java: https://github.com/careercup/CtCI-6th-Edition/tree/master/Java
 
+Links were taken from https://towardsdatascience.com/10-excellent-github-repositories-for-every-java-developer-41084a91ade9
+
+
+
